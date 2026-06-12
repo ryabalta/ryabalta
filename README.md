@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Learning+Python+and+C%2B%2B;Building+Projects;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Projects;Always+Learning" />
 
 <br><br>
 
