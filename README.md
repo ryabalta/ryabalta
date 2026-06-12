@@ -8,10 +8,6 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,github,vscode,linux" />
-
-</div>
-
 ---
 
 # Hi, I'm Ruya 💗
