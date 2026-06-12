@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=Hi,%20I'm%20Ruya&fontSize=50&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=220&section=header&text=Hi,%20I'm%20Ruya&fontSize=50&fontColor=ffffff&animation=twinkling" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Projects;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+Projects;Always+Learning" />
 
 <br><br>
 
@@ -12,7 +12,7 @@
 
 ---
 
-# Hi, I'm Ruya 💗
+# Hi, I'm Ruya 💜
 
 Computer Science student at the University of Nottingham.
 
@@ -79,21 +79,21 @@ Currently working on new Python and software development projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elifruyabalta">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/ryabalta">
-    <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-6a0dad?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://tenor.com/view/kRDiH9RSrWu.gif" width="250">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNudjdjODZ3MmlraG5qbDRtejdhcWFlNXltMm1lNG1xcjE1c2I5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9T4bzIHzqZQNFSM2hl/giphy.gif" width="350">
 </p>
 
 <h3 align="center">
   <i>If you can dream it, you can do it.</i>
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=320&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=320&section=footer&animation=twinkling" />
