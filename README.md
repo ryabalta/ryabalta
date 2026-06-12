@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Hi,%20I'm%20Ruya&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Hi,%20I'm%20Ruya&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 <br>
 
@@ -94,4 +94,4 @@ Currently working on new Python and software development projects.
 *If you can dream it, you can do it.*
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
