@@ -89,7 +89,7 @@ Currently working on new Python and software development projects.
 
 ---
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhxMjZkbmh2emtnMTRwZGp6bjdrejhpcGQzYm0zMG8xanltNGNjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJACwlJbtiWrYeWoqM/giphy.gif" width="300">
+  <img src="https://tenor.com/view/kRDiH9RSrWu.gif" width="250">
 </p>
 
 <h3 align="center">
