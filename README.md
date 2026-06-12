@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=Hi,%20I'm%20Ruya&fontSize=50&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=Hi,%20I'm%20Ruya💜&fontSize=50&fontColor=ffffff&animation=twinkling" />
 
 <br>
 
@@ -41,19 +41,19 @@ Interested in software development, AI, cybersecurity, and learning how things w
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=1&pause=999999&color=D8B4FE&width=400&height=40&lines=Projects" />
 
-### 🧠 Remi
+### • Remi
 
 An AI-powered memory assistant developed during the GenAI Genesis Hackathon.
 
-### 📦 Warehouse Location Analysis
+### • Warehouse Location Analysis
 
 A logistics optimization project built during Hack the Future.
 
-### 📅 ISO Date Converter
+### • ISO Date Converter
 
 A C application implementing ISO 8601 date calculations and conversions.
 
-### 🚀 More Coming Soon
+### • More Coming Soon
 
 Currently working on new Python and software development projects.
 
