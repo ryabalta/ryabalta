@@ -14,7 +14,7 @@
 
 ---
 
-# Hi, I'm Ruya 👋
+# Hi, I'm Ruya 💗
 
 Computer Science student at the University of Nottingham.
 
@@ -24,9 +24,9 @@ Interested in software development, AI, cybersecurity, and learning how things w
 
 ## About Me
 
-I'm a Computer Science student currently focused on improving my programming skills and building projects that help me learn by doing.
+I'm a second year Computer Science student currently focused on improving my programming skills and building projects that help me learn by doing.
 
-I enjoy exploring different areas of technology, from software development and AI to cybersecurity and systems programming.
+I enjoy exploring different areas of technology, from software development to AI and cybersecurity.
 
 ---
 
@@ -35,11 +35,10 @@ I enjoy exploring different areas of technology, from software development and A
 ### Languages
 
 - Python
-- C++
 - C
 - Java
-- SQL
 - Haskell
+- Assembly
 
 ### Tools
 
@@ -73,7 +72,6 @@ Currently working on new Python and software development projects.
 ## Currently
 
 - Improving my Python skills
-- Learning C++
 - Building personal projects
 - Expanding my GitHub portfolio
 
