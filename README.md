@@ -1,5 +1,18 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Hi,%20I'm%20Ruya&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Learning+Python+and+C%2B%2B;Building+Projects" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,github,vscode,linux" />
+
+</div>
+<div align="center">
+
 # Hi, I'm Ruya 👋
 
 Computer Science student at the University of Nottingham
@@ -81,3 +94,4 @@ Currently working on new Python and software development projects.
 *If you can dream it, you can do it.*
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" />
