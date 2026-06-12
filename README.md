@@ -12,7 +12,7 @@
 
 ---
 
-# Hi, I'm Ruya 💜
+# About me 💜
 
 Computer Science student at the University of Nottingham.
 
@@ -20,13 +20,6 @@ Interested in software development, AI, cybersecurity, and learning how things w
 
 ---
 
-## About Me
-
-I'm a Computer Science student currently focused on improving my programming skills and building projects that help me learn by doing.
-
-I enjoy exploring different areas of technology, from software development to AI and cybersecurity.
-
----
 
 ## Technologies
 
