@@ -45,7 +45,7 @@ Interested in software development, AI, cybersecurity, and learning how things w
 
 An AI-powered memory assistant developed during the GenAI Genesis Hackathon.
 
-### • Warehouse Location Analysis
+### • Warehouse Logistics Optimizer
 
 A logistics optimization project built during Hack the Future.
 
